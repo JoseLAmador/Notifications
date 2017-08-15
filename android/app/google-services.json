@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "430923296727",
+    "firebase_url": "https://reactfixter.firebaseio.com",
+    "project_id": "reactfixter",
+    "storage_bucket": "reactfixter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430923296727:android:30612873865148fc",
+        "android_client_info": {
+          "package_name": "com.blan_b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430923296727-ed1u6839nbl19a1mrcl6p7gkdaub24bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyaZP9OtsZIJUvMqxItIx1WWQvUhMwTzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430923296727:android:f964023d8b59396b",
+        "android_client_info": {
+          "package_name": "com.notifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430923296727-ed1u6839nbl19a1mrcl6p7gkdaub24bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyaZP9OtsZIJUvMqxItIx1WWQvUhMwTzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430923296727:android:f70047dc6caba041",
+        "android_client_info": {
+          "package_name": "com.dell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430923296727-ed1u6839nbl19a1mrcl6p7gkdaub24bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyaZP9OtsZIJUvMqxItIx1WWQvUhMwTzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
